@@ -1,0 +1,2 @@
+crossplatformfilesharing.FileSender
+crossplatformfilesharing.file
